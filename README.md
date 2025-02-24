@@ -1,12 +1,14 @@
-## Hi there 👋
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1200/format:webp/0*dI-o8H3i0w66SpK7.gif)]
 <h1 align="center">Hi 👋, I'm Pranaya</h1>
 <h3 align="center">A passionate Data scientist - AI/ML Engineer</h3>
-(img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif") 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranayalaxmi&label=Profile%20views&color=0e75b6&style=flat" alt="pranayalaxmi" /> </p>
 
 - 🔭 I’m currently working on **developing chatbot**
+
+- 🌱 I’m currently learning **AI, TensorFlow, PyTorch**
+
+- 👯 I’m looking to collaborate on **AI/ML Projects**
 
 - 📫 How to reach me **pranayalaxmi11@gmail.com**
 
