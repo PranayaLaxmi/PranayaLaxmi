@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/format:webp/0*dI-o8H3i0w66SpK7.gif)]
+[![MasterHead](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif)]
 <h1 align="center">Hi 👋, I'm Pranaya</h1>
 <h3 align="center">A passionate Data scientist - AI/ML Engineer</h3>
 
