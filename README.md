@@ -1,4 +1,4 @@
-[![MasterHead](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif)]
+![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 <h1 align="center">Hi 👋, I'm Pranaya</h1>
 <h3 align="center">A passionate Data scientist - AI/ML Engineer</h3>
 
